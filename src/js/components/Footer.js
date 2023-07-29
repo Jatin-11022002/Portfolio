@@ -20,7 +20,7 @@ function Footer() {
           <div className="w-full md:w-auto mb-4 md:mb-0">
             <h2 className="font-bold text-lg mb-2"> Social Media </h2>{" "}
             <a
-              href="https://www.linkedin.com/in/jatinramchandani/"
+              href="https://leetcode.com/jatinramchandani15/"
               className="inline-block mr-4"
               target="_blank"
             >
@@ -29,7 +29,7 @@ function Footer() {
               LeetCode{" "}
             </a>{" "}
             <a
-              href="https://leetcode.com/jatinramchandani15/"
+              href="https://www.linkedin.com/in/jatinramchandani/"
               className="inline-block mr-4"
               target="_blank"
             >
